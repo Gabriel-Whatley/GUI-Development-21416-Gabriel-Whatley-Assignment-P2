@@ -66,11 +66,4 @@ Public Class Form1
         box_input.Focus()
     End Sub
 
-    Private Sub box_input_TextChanged(sender As Object, e As EventArgs) Handles box_input.TextChanged
-
-    End Sub
-
-    Private Sub lbl_state_Click(sender As Object, e As EventArgs) Handles lbl_state.Click
-
-    End Sub
 End Class
